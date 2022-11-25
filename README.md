@@ -8,7 +8,7 @@
 This project is about developing an E-commerce for a fictional company named Shop Now that specializes in the market of different grocery goods, offering its consumers a wide range of products. 
 
 Check this out:
-https://brunameloo.github.io/BorcelleFashionResponsiveLandingPage/
+https://brunameloo.github.io/ShopNowEcommerce/
 
 ## Habilities and Technologies Explored and Applied
 
