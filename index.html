@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="title" content="Shop Now">
+        <meta name="description" content="Shop Now Ecommerce">    
+        <meta name="author" content="Shop Now">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Shop Now</title>
+       
+        <link rel="stylesheet" href="./src/css/reset.css">
+        <link rel="stylesheet" href="./src/css/style.css">        
+
+    </head>
+
+    <body>
+    
+        <header>
+
+            <h1>Shop Now</h1>
+
+        </header>
+        
+        <div class="layout-design">
+
+            <main class="main">
+
+                <nav class="navigation-area">
+    
+                    <ul class="products-categories">
+    
+                        <li class="product-category-item" id="all-products">Todos Produtos</li>
+    
+                        <li class="product-category-item" id="hortifruti">Hortifruiti</li>
+    
+                        <li class="product-category-item" id="bakery">Panificadora</li>
+    
+                        <li class="product-category-item" id="dairy">Laticínios</li>
+    
+                    </ul>
+    
+                    <div class="product-searching-div">
+    
+                        <input type="text" class="product-searching" placeholder="Pesquisar por">
+    
+                        <button class="product-searching-button"><img class="product-searching-button-img" src="./src/img/search.svg" alt="Pesquisar" width="19px"></button>
+    
+                    </div>
+            
+                </nav> 
+                    
+                <section class="products-cards-section">
+    
+                    <ul class="products-cards-list">
+    
+                        <!-- render products cards here -->
+                        
+                    </ul>
+    
+                </section>       
+            
+            </main>
+    
+            <aside class="purchase-cart">
+
+                <div class="purchase-cart-title">
+
+                    <img src="./src/img/cart-vector.svg" alt="Carrinho">
+
+                    <p>Carrinho</p>
+
+                </div>
+
+                <ul class="purchase-cart-list">
+    
+                    <!-- render products cards here -->
+                    
+                </ul>
+
+                <div class="total-area">
+
+                    <!-- render total information here -->
+                    
+                </div>                
+    
+            </aside>
+
+        </div>
+
+        <script src="./src/js/dataProdutos.js"></script>
+        <script src="./src/js/script.js"></script>
+        
+    </body>
+
+</html>
