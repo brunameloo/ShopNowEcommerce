@@ -1,8 +1,7 @@
-# ShopNowEcommerce
+# ShopNow E-commerce
 
 <div style = "display: inlin_block">
-<img src="https://github.com/brunameloo/BorcelleFashionResponsiveLandingPage/blob/main/img/borcelle-desktop-ui.svg" height="400"/>
-<img src="https://github.com/brunameloo/BorcelleFashionResponsiveLandingPage/blob/main/img/borcelle-mobile-ui.svg" height="400"/>
+<img src="https://github.com/brunameloo/ShopNowEcommerce/blob/main/src/img/shop-now-ui-design.JPG" width="800"/>
 </div>
 
 This project is about developing an E-commerce for a fictional company named Shop Now that specializes in the market of different grocery goods, offering its consumers a wide range of products. 
